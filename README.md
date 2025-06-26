@@ -1,6 +1,10 @@
-# 💻 My C# learning Project from my Second Year of College (2016).
+# 💻 Sample project showcasing a basic API implementation for an Insurance Management System.
 
-This repository contains a a WinForms (.NET Framework) project to Automate Simple Transaction recordings for a laundry shop business.
+This is a practice and learning project built with C# and ASP.NET Core Web API, focused on the core structure of an Insurance Management System.
+
+It demonstrates essential concepts in modern API development, including layered architecture, clean coding standards, and key features like authentication, data handling, and policy management.
+
+Designed for experimentation and foundational training, this project serves as a starting point for developing more robust, production-ready insurance applications.
 
 ---
 
