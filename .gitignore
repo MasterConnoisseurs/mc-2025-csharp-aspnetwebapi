@@ -1,0 +1,39 @@
+# Visual Studio Solution User Options
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Cache / Temporary Files
+.vs/
+
+# NuGet Packages
+packages/
+*.nupkg
+*.nuget.props
+*.nuget.targets
+
+# Build Outputs
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+[Pp]ublish/
+*.pdb # Program Database files (debugging symbols)
+*.bak # Backup files
+
+# Logs
+*.log # General log files
+logs/ # Directory for logs
+Logs/ # Directory for logs (capitalized)
+*.txt # Potentially log files
+
+# JetBrains Rider/ReSharper User Settings
+# As seen: MC.LaundryShop.sln.DotSettings.user
+*.DotSettings.user
+*.resharper.user
+_ReSharper*/ # Specific ReSharper cache directories
+
+# Other temporary or generated files
+# If you see them appear, consider adding them
+*.tmp
